@@ -163,8 +163,8 @@ export default {
 <style>
 .bg{
   position: absolute;
-  width: 192px;
-  height: 490px;
+  width: 196px;
+  height: 280px;
   background-color: black;
 }
 text{
